@@ -1,0 +1,1 @@
+(self.webpackChunkant_design_pro=self.webpackChunkant_design_pro||[]).push([[1425],{47290:function(u,t,n){"use strict";n.r(t),n.d(t,{TableList:function(){return a}});var d=n(67294),E=n(75362),l=n(32474),s=n(85893),a=function(){return(0,s.jsx)(E.ZP,{children:(0,s.jsx)(l.Z,{tablename:"think",module:"ipm"})})};t.default=a}}]);
